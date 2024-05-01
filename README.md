@@ -1,1 +1,1 @@
-#This code essentially sets up a pipeline for performing QA on movie-related questions using a pre-trained LLM. It leverages the Hugging Face ecosystem for accessing pre-trained models, embeddings, and other NLP tools
+This code essentially sets up a pipeline for performing QA on movie-related questions using a pre-trained LLM. It leverages the Hugging Face ecosystem for accessing pre-trained models, embeddings, and other NLP tools
